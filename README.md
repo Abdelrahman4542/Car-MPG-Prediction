@@ -59,6 +59,3 @@ This project demonstrates how machine learning models can be integrated into int
 
 ---
 
-## 👨‍💻 Author
-
-AI Student passionate about Machine Learning and building real-world applications.
